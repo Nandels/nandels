@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 My name is **Beryl**.<br>
 
-I'm a developer, nice to meet you there, "we do little things and hope for bigger things"
+I'm a developer, nice to meet you there, we do little things and hope for bigger things
 
 <p align="left">
 <a href="https://github.com/nandels">
