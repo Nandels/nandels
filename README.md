@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<!-- ## Hi there 👋
+-->
 <!--
 **Nandels/nandels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello There! 
+
+My name is **Beryl**.<br>
+
+I'm a developer, nice to meet you there
